@@ -3,8 +3,10 @@
 ## 1.	Yang pertama mendowload semua file pada link berikut. Setelah itu ekstrak semua filenya.
 •	Table Vista free
 https://sourceforge.net/projects/ophcrack/files/tables/Vista%20free/tables_vista_free.zip/download
+
 •	PwDump7
 https://github.com/Seabreg/pwdump
+
 •	Ophcrack
 https://ophcrack.sourceforge.io/download.php?type=ophcrack
 ![image](https://github.com/user-attachments/assets/1315c728-2ef3-43dd-b388-a471eb19b646)
