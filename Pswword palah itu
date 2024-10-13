@@ -1,0 +1,27 @@
+# Laporan Proyek
+
+## Pendahuluan
+Laporan ini membahas mengenai hasil implementasi dari proyek X yang meliputi pengembangan aplikasi Y menggunakan teknologi Z.
+
+## Tujuan
+- Membangun aplikasi Y yang fungsional dan mudah digunakan.
+- Mengimplementasikan fitur A, B, dan C sesuai kebutuhan pengguna.
+- Menguji kinerja aplikasi dengan metode X.
+
+## Teknologi yang Digunakan
+- **Bahasa Pemrograman**: Python
+- **Framework**: Flask
+- **Database**: PostgreSQL
+- **Version Control**: Git
+
+## Struktur Proyek
+Berikut adalah struktur direktori dari proyek:
+
+```bash
+├── README.md
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   └── templates/
+├── config.py
+└── requirements.txt
